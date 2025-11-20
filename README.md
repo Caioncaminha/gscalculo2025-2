@@ -4,8 +4,6 @@ Este projeto contém a resolução da Global Solution de Differentiated Problem 
 
 ## Conteúdo da Pasta
 
-- `GS - DPS - Turmas Fevereiro.pdf`: O documento original com as especificações e requisitos do trabalho.
-
 - `trabalho.html`: O relatório final em formato HTML, contendo toda a análise matemática, os gráficos e a conclusão. Este é o principal entregável.
 
 - `gerar_graficos.py`: O script em Python utilizado para gerar os gráficos da curva de conhecimento e da velocidade de aprendizado.
