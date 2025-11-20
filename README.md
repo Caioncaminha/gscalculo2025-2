@@ -4,8 +4,6 @@ Este projeto contém a resolução da Global Solution de Differentiated Problem 
 
 ## Conteúdo da Pasta
 
-- `trabalho.html`: O relatório final em formato HTML, contendo toda a análise matemática, os gráficos e a conclusão. Este é o principal entregável.
-
 - `gerar_graficos.py`: O script em Python utilizado para gerar os gráficos da curva de conhecimento e da velocidade de aprendizado.
 
 - `requirements.txt`: Um arquivo de texto que lista as bibliotecas Python necessárias para executar o script `gerar_graficos.py`.
